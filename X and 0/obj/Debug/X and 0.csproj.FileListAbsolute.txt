@@ -1,0 +1,34 @@
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\X and 0.exe.config
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\X and 0.exe
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\X and 0.pdb
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.csprojResolveAssemblyReference.cache
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X_and_0.Properties.Resources.resources
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.csproj.GenerateResource.Cache
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.exe
+c:\users\radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.pdb
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X_and_0.Xsi0.resources
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X_and_0.Form2.resources
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\MySql.Data.dll
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.TrustInfo.xml
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\X and 0.exe.manifest
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\X and 0.application
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.exe.manifest
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\obj\Debug\X and 0.application
+C:\Users\Radu\documents\visual studio 2015\Projects\X and 0\X and 0\bin\Debug\tic-tac-toe.ico
+E:\X and 0\X and 0\bin\Debug\tic-tac-toe.ico
+E:\X and 0\X and 0\bin\Debug\X and 0.exe.config
+E:\X and 0\X and 0\bin\Debug\X and 0.exe.manifest
+E:\X and 0\X and 0\bin\Debug\X and 0.application
+E:\X and 0\X and 0\bin\Debug\X and 0.exe
+E:\X and 0\X and 0\bin\Debug\X and 0.pdb
+E:\X and 0\X and 0\obj\Debug\X and 0.csprojResolveAssemblyReference.cache
+E:\X and 0\X and 0\obj\Debug\X_and_0.Xsi0.resources
+E:\X and 0\X and 0\obj\Debug\X_and_0.Form2.resources
+E:\X and 0\X and 0\obj\Debug\X_and_0.Properties.Resources.resources
+E:\X and 0\X and 0\obj\Debug\X and 0.csproj.GenerateResource.Cache
+E:\X and 0\X and 0\obj\Debug\X and 0.csproj.CoreCompileInputs.cache
+E:\X and 0\X and 0\obj\Debug\X and 0.TrustInfo.xml
+E:\X and 0\X and 0\obj\Debug\X and 0.exe.manifest
+E:\X and 0\X and 0\obj\Debug\X and 0.application
+E:\X and 0\X and 0\obj\Debug\X and 0.exe
+E:\X and 0\X and 0\obj\Debug\X and 0.pdb
